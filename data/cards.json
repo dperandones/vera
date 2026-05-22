@@ -1,0 +1,1828 @@
+{
+  "cards": [
+    {
+      "id": 670,
+      "name": "Abdominoplastia",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 5343,
+      "worthItPercentage": "91%",
+      "numberOfReviews": 145,
+      "description": "La abdominoplastia es una intervención quirúrgica indicada para personas que presentan acumulación de grasa, exceso de piel y relajación de los músculos de la pared abdominal que no se consigue mejorar ni con dieta ni tampoco con ejercicio. Las siguientes clínicas estéticas y cirujanos plásticos son especialistas en esta intervención quirúrgica.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_670_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_670_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_670_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/abdominoplastia"
+    },
+    {
+      "id": 7242,
+      "name": "Asimetría mamaria",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5030,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 769,
+      "description": "La asimetría mamaria es un defecto estético que puede solventarse con cirugía, bien con colocación de prótesis, reducción de una de las mamas o también, mediante lipotransferencia. La elección de la técnica más adecuada dependerá entre otros factores, del grado de asimetría mamaria que tenga cada paciente. Generalmente la cirugía se realiza con anestesia general y consiste en igualar el volumen, la forma y la elevación de ambas mamas para que prácticamente no haya diferencia entre los dos pechos.\r\n&nbsp;",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7242_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7242_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7242_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/asimetria-mamaria"
+    },
+    {
+      "id": 7381,
+      "name": "Mia Femtech™",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5030,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 769,
+      "description": "Consigue un pecho armónico de forma mínimamente invasiva gracias a Mia Femtech™, una innovadora tecnología que permitirá aumentar 1 o 2 copas, sin anestesia general y sin postoperatorio. Además, los resultados que se obtendrán serán naturales y las cicatrices mínimas y ocultas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7381_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7381_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7381_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/mia-femtech"
+    },
+    {
+      "id": 7262,
+      "name": "Pezones invertidos",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5030,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 769,
+      "description": "La corrección de los pezones invertidos o planos puede realizarse dependiendo del grado de la paciente. De ser operable, la intervención tiene una duración aproximada de 15 minutos por pezón y se realiza con anestesia local en régimen ambulatorio. Tras la intervención el cirujano colocará un apósito antibiótico que se deberá mantener durante 4-5 días. La zona no deberá mojarse durante ese tiempo y se debe tener especial cuidado. Generalmente se trata de una intervención estética, aunque en ocasiones puede presentar problemas funcionales.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7262_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7262_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7262_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/pezones-invertidos"
+    },
+    {
+      "id": 5178,
+      "name": "Ácido hialurónico",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 382,
+      "worthItPercentage": "81%",
+      "numberOfReviews": 185,
+      "description": "El ácido hialurónico se convertirá en tu gran aliado estético. Te ayudará a estimular la producción de colágeno de tu piel, a retener el agua en la misma y a rellenar pequeños surcos. Si estás pensando en probar esta técnica o quieres repetir, en Multiestetica te ofrecemos una selección de los mejores centros y médicos estéticos que realizan tratamientos con ácido hialurónico.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5178_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5178_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5178_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/acido-hialuronico"
+    },
+    {
+      "id": 668,
+      "name": "Aumento de pecho",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5237,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 772,
+      "description": "El aumento de senos es un procedimiento quirúrgico para remodelar la forma del seno con el fin de hacerlo más grande. Existen varias formas de implantes, tipos, tamaños y proyecciones según las preferencias de cada paciente. Encuentra las clínicas estéticas y los cirujanos plásticos que realizan aumento de senos y consigue el pecho que siempre has soñado.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_668_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_668_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_668_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/aumento-senos"
+    },
+    {
+      "id": 666,
+      "name": "Blefaroplastia",
+      "moduleId": 231,
+      "slug": null,
+      "averagePrice": 2796,
+      "worthItPercentage": "83%",
+      "numberOfReviews": 304,
+      "description": "La remodelación de los párpados removiendo el exceso de tejido es el objetivo principal de la blefaroplastia. Esta intervención es la mejor solución para reforzar los músculos y tendones de los párpados ya sean superiores, inferiores o ambos, dependiendo de cada caso concreto. Aquí podrás ver las mejores clínicas y los mejores doctores especializados en la cirugía de la blefaroplastia también denominada cirugía de párpados.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_666_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_666_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_666_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/blefaroplastia"
+    },
+    {
+      "id": 1132,
+      "name": "Balón gástrico",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 4141,
+      "worthItPercentage": "84%",
+      "numberOfReviews": 33,
+      "description": "El balón gástrico es un tratamiento contra la obesidad que no precisa de proceso quirúrgico. Consiste en la introducción de un globo de silicona en el estómago para que el paciente no tenga sensación de hambre y se sacie con poca comida. La retirada del balón se suele realizar a los 6 meses vía endoscópica. En esta página podrás ver doctores y clínicas especializados en la colocación del balón gástrico.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1132_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1132_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1132_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/balon-gastrico"
+    },
+    {
+      "id": 671,
+      "name": "Liposucción",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 4150,
+      "worthItPercentage": "73%",
+      "numberOfReviews": 66,
+      "description": "La liposucción es una cirugía que se realiza bajo anestesia regional o local y sedación mediante la cual se extrae tejido adiposo del cuerpo mediante el uso de instrumental especial (cánulas de liposucción) con la finalidad de moldear el cuerpo del paciente. En esta página encontrarás a los mejores cirujanos plásticos y clínicas especializadas en liposucción.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_671_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_671_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_671_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/liposuccion"
+    },
+    {
+      "id": 7263,
+      "name": "Rinoseptoplastia",
+      "moduleId": 229,
+      "slug": null,
+      "averagePrice": 4824,
+      "worthItPercentage": "83%",
+      "numberOfReviews": 376,
+      "description": "La rinoseptoplastia o rinoseptumplastia es la intervención quirúrgica que permite embellecer el aspecto de la nariz y, al mismo tiempo, mejorar su funcionalidad (enderezando la desviación del tabique nasal). El procedimiento es muy similar al de una rinoplastia, aunque más delicado y complejo. La intervención puede realizarse con anestesia local y sedación o con anestesia general, dependiendo del caso médico, y se requiere una noche de hospitalización. El paciente estará entre uno y cinco días taponado, y los puntos se retirarán pasada una semana.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7263_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7263_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7263_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rinoseptoplastia"
+    },
+    {
+      "id": 7397,
+      "name": "Rinoplastia secundaria",
+      "moduleId": 229,
+      "slug": null,
+      "averagePrice": 4824,
+      "worthItPercentage": "83%",
+      "numberOfReviews": 376,
+      "description": "La rinoplastia secundaria es una cirugía con el objetivo de corregir la apariencia o mejorar la funcionalidad&nbsp;de la nariz después de que la primera intervención no haya cumplido las expectativas iniciales como forma, simetría o respiración. Es más compleja que la primera intervención ya que trabaja sobre tejido cicatrizado o estructuras modificadas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7397_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7397_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7397_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rinoplastia-secundaria"
+    },
+    {
+      "id": 7207,
+      "name": "Exosomas",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 345,
+      "worthItPercentage": null,
+      "numberOfReviews": 1,
+      "description": "El tratamiento con exosomas potencia la regeneración celular y estimula la producción de colágeno, mejorando la textura, firmeza y luminosidad de la piel. Es ideal para combatir el envejecimiento y recuperar una apariencia fresca y saludable sin necesidad de cirugía.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7207_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7207_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7207_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/exosomas"
+    },
+    {
+      "id": 1172,
+      "name": "Aumento labios",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 387,
+      "worthItPercentage": "89%",
+      "numberOfReviews": 141,
+      "description": "La boca y, concretamente, los labios son una parte muy importante del rostro, por eso, en los casos en los que no se tienen los labios muy gruesos, puede mejorar mucho nuestro aspecto un tratamiento de aumento de labios. Generalmente se rellenan con ácido hialurónico y su duración puede llegar a los 18 meses. Consulta aquí doctores y clínicas que realizan aumento de labios.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1172_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1172_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1172_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/aumento-labios"
+    },
+    {
+      "id": 664,
+      "name": "Rinoplastia",
+      "moduleId": 229,
+      "slug": null,
+      "averagePrice": 4886,
+      "worthItPercentage": "83%",
+      "numberOfReviews": 377,
+      "description": "La rinoplastia tiene como objetivo conseguir una nariz de aspecto natural y que ofrezca un resultado armónico con el resto de la estructura facial. Esta cirugía de la nariz puede realizarse de forma abierta o cerrada, dependiendo de las características del paciente. A continuación te ofrecemos un listado de clínicas estéticas con servicio de rinoplastia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_664_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_664_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_664_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rinoplastia"
+    },
+    {
+      "id": 7162,
+      "name": "Liposucción de papada",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 2000,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 4,
+      "description": "La liposucción de papada es una cirugía que se realiza bajo anestesia local que permite eliminar el exceso de grasa de la zona del cuello y de la mandíbula. Para ello, se utiliza un instrumental especial (cánulas de liposucción) con la finalidad de moldear esta zona. En esta página encontrarás a los mejores cirujanos plásticos y clínicas especializadas en liposucción de papada.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7162_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7162_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7162_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/liposuccion-de-papada"
+    },
+    {
+      "id": 7265,
+      "name": "Endermología",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 149,
+      "worthItPercentage": "75%",
+      "numberOfReviews": 3,
+      "description": "La endermología, también denominada comúnmente LPG, es un tratamiento creado para la eliminación de la celulitis. Se trata de un procedimiento llevado a cabo a partir de unos rodillos motorizados que amasan una zona corporal y provocan un efecto adelgazante. El LPG ayuda a eliminar la celulitis y el exceso de grasa, lo que permite moldear la figura y conseguir un aspecto más armónico. Generalmente las sesiones suelen durar unos 35 minutos, y las indicaciones del médico estético determinarán el número de sesiones que se precisen.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7265_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7265_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7265_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/endermologia"
+    },
+    {
+      "id": 5573,
+      "name": "Eliminación de estrías",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 149,
+      "worthItPercentage": "75%",
+      "numberOfReviews": 3,
+      "description": "La eliminación de estrías consiste en la mejora del aspecto de la piel, generalmente con tecnología láser o tratamientos de dermoabrasión. Los tratamientos son mínimamente invasivos y consiguen mejorar notablemente el aspecto de la estría, minimizando su impacto en la piel. Si tienes interés en los tratamientos antiestrías, consulta en esta página qué doctores y clínicas estéticas los realizan.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5573_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5573_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5573_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/eliminacion-de-estrias"
+    },
+    {
+      "id": 4757,
+      "name": "Alargamiento de pene",
+      "moduleId": 244,
+      "slug": null,
+      "averagePrice": 4400,
+      "worthItPercentage": "56%",
+      "numberOfReviews": 4,
+      "description": "El alargamiento de pene es una cirugía íntima cada vez más demandada por los hombres. Lo que se consigue mediante esta intervención es aumentar la longitud del pene, característica que preocupa a muchos hombres. Durante esta intervención, el médico realizará una ligera incisión en el ligamento inferior del pene para que este caiga hacia adelante. Los siguientes cirujanos son especialistas en alargamiento de pene.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4757_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4757_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4757_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/alargamiento-de-pene"
+    },
+    {
+      "id": 5868,
+      "name": "Lunares",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 226,
+      "worthItPercentage": "90%",
+      "numberOfReviews": 23,
+      "description": "La eliminación de lunares suele realizarse con láser, pero también puede llevarse a cabo mediante cirugía o crioterapia. Dependerá del tipo de lunar y lo que el especialista recomiende en cada caso. Es importante que si notamos cambios en nuestros lunares acudamos a un dermatólogo para asegurar que no son peligrosos. Las siguientes clínicas realizan tratamientos para eliminar los lunares.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5868_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5868_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5868_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lunares"
+    },
+    {
+      "id": 5157,
+      "name": "Lipoláser",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 3333,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 8,
+      "description": "El lipoláser es una técnica mínimamente invasiva que está especialmente indicada para eliminar la grasa acumulada localizada y, de paso, retraer la piel. Si buscas una técnica que consiga dar firmeza a tu piel y eliminar excesos de grasa en zonas localizadas, ésta es tu técnica. Consulta en esta página las clínicas y doctores especialistas en el lipoláser.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5157_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5157_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5157_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lipolaser"
+    },
+    {
+      "id": 7277,
+      "name": "Crioterapia",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 195,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 19,
+      "description": "La crioterapia es un método médico que consiste en la aplicación de nitrógeno líquido de diferentes formas para extirpar verrugas o destruir lesiones cutáneas. Este sistema es rápido, no suele llevar más de escasos minutos, y apenas tiene contraindicaciones. Es importante que el tratamiento se lleve a cabo de la mano de médicos especializados. Es posible que dependiendo de la lesión cutánea del paciente se precisen más de una sesión, ya que puede ocurrir que con un solo proceso no sea suficiente para eliminar la lesión por completo.\r\n",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7277_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7277_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7277_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/crioterapia"
+    },
+    {
+      "id": 5566,
+      "name": "Verrugas",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 195,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 19,
+      "description": "La eliminación de verrugas es un tratamiento generalmente sencillo que se realiza con anestesia local por parte de médicos especializados, como son los dermatólogos. Se pueden eliminar con crioterapia o tecnología láser, dependerá de cada caso conreto y cada tipo de verruga. Las siguientes clínicas y dermatólogos te ofrecerán el mejor tratamiento para tu caso.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5566_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5566_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5566_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/verrugas"
+    },
+    {
+      "id": 1147,
+      "name": "Mastopexia",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5571,
+      "worthItPercentage": "88%",
+      "numberOfReviews": 182,
+      "description": "La mastopexia es la cirugía que se realiza para elevar el pecho caído. Generalmente se realiza con anestesia general y puede realizarse con la técnica convencional que deja la cicatriz en forma de \"T\" invertida o con prótesis mamarias, opción que deja menos cicatriz en la mama. Los siguientes centros y clínicas de cirugía estética te ofrecen soluciones para elevar el pecho caído.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1147_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1147_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1147_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/mastopexia"
+    },
+    {
+      "id": 7188,
+      "name": "Hialuronidasa",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 199,
+      "worthItPercentage": null,
+      "numberOfReviews": null,
+      "description": "La hialuronidasa es una enzima inyectable que se utiliza para disolver el ácido hialurónico cuando un relleno dérmico no da el resultado esperado. Es un tratamiento rápido y eficaz que corrige excesos de volumen, asimetrías o acumulaciones.&nbsp;En esta página encontrarás a los mejores doctores y clínicas especializadas en su aplicación.  ",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7188_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7188_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7188_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/hialuronidasa"
+    },
+    {
+      "id": 5311,
+      "name": "Engrosamiento de pene",
+      "moduleId": 244,
+      "slug": null,
+      "averagePrice": 5500,
+      "worthItPercentage": "75%",
+      "numberOfReviews": 1,
+      "description": "El engrosamiento de pene es un procedimiento quirúrgico para aportar al miembro del paciente un mayor diámetro. Existen varias técnicas para mejorar el grosor del pene como por ejemplo, la inyección de grasa autóloga o los rellenos de silicona. Los siguientes cirujanos plásticos que encontrarás en Multiestetica son especialistas en engrosamiento de pene.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5311_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5311_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5311_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/engrosamiento-de-pene"
+    },
+    {
+      "id": 7388,
+      "name": " Endolifting ",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 506,
+      "worthItPercentage": "65%",
+      "numberOfReviews": 273,
+      "description": "El Endolifting es un tratamiento estético mínimamente invasivo que combina la tecnología láser para combatir la flacidez de la piel, disminuir las arrugas del rostro y redefinir los contornos faciales para lucir una piel más radiante y joven.  \r\nFunciona por medio de un láser de fibra óptica debajo de la piel que por medio del calor produce nuevo colágeno y permite aumentar la firmeza de la piel.  Este procedimiento es ideal para las personas que buscan un efecto lifting sin cirugía.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7388_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7388_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7388_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/endolifting"
+    },
+    {
+      "id": 669,
+      "name": "Reducción senos",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5192,
+      "worthItPercentage": "91%",
+      "numberOfReviews": 94,
+      "description": "El peso excesivo del tejido en los pechos puede provocar problemas como dolores de la espalda y el cuello, deformidades esqueléticas, problemas posturales, etc. Con esta intervención se consigue reducir el tamaño de los pechos y además, se pude colocar una prótesis para mejorar su forma. Las siguientes clínicas estéticas y cirujanos plásticos realizan operaciones de reducción de senos.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_669_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_669_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_669_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/reduccion-senos"
+    },
+    {
+      "id": 674,
+      "name": "Rejuvenecimiento facial",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 506,
+      "worthItPercentage": "65%",
+      "numberOfReviews": 273,
+      "description": "Consiga de nuevo la apariencia de juventud que tu rostro ha perdido con el paso de los años, con un resultado natural y armonioso. Para ello, te ofrecemos un listado de clínicas expertas en rejuvenecimiento facial. Contacta con ellas y descubre qué tratamiento antiedad es el más adecuado según tus necesidades concretas y los resultados que estás buscando.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_674_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_674_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_674_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rejuvenecimiento-facial"
+    },
+    {
+      "id": 3767,
+      "name": "Bichectomía",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 1753,
+      "worthItPercentage": "95%",
+      "numberOfReviews": 34,
+      "description": "Si deseas afinar tus tasgos faciales y quieres que tu rostro sea más anguloso y menos redondo, puede que requieras de una extracción de las Bolas de Bichat situadas en el interior de la boca. En Multiestetica.com encontrarás los mejores doctores que ofrecen este procedimiento. Contacta con ellos a través de nuestra web y encuentra al mejor cirujano estético.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_3767_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_3767_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_3767_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/bolas-de-bichat"
+    },
+    {
+      "id": 1148,
+      "name": "Lipoescultura",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 8500,
+      "worthItPercentage": "82%",
+      "numberOfReviews": 29,
+      "description": "Las siguientes clínicas te ofrecen servicios de lipoescultura, una técnica estética que consiste en moldear el cuerpo eliminando la grasa de las zonas donde se acumula con más frecuencia: abdomen, muslos, cartucheras, etc. Esta técnica consigue una remodelación corporal más precisa y mayor que la alcanzada con la clásica liposucción profunda.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1148_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1148_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1148_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lipoescultura"
+    },
+    {
+      "id": 5317,
+      "name": "Eliminación ojeras",
+      "moduleId": 231,
+      "slug": null,
+      "averagePrice": 333,
+      "worthItPercentage": "88%",
+      "numberOfReviews": 16,
+      "description": "La eliminación de ojeras consiste en mejorar el aspecto de la mirada sin necesidad de recurrir a la cirugía. El objetivo es aclarar la zona de la ojera  rejuveneciendo la mirada. En la actualidad existen varios tratamientos para eliminar las ojeras como el láser o la carboxiterapia. Si quieres saber el mejor tratamiento para tu caso, consulta con las siguientes clínicas y doctores.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5317_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5317_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5317_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/eliminacion-ojeras"
+    },
+    {
+      "id": 5158,
+      "name": "Criolipólisis",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 276,
+      "worthItPercentage": "89%",
+      "numberOfReviews": 10,
+      "description": "La criolipólisis es una técnica revolucionaria que consigue terminar con la grasa localizada. Se trata de un tratamiento no-invasivo que elimina la grasa a través de la aplicación de frío. Descubre los resultados que puedes conseguir con este tratamiento contactando con las siguientes clínicas y cirujanos especialisas en el tratamiento de la criolipólisis.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5158_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5158_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5158_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/criolipolisis"
+    },
+    {
+      "id": 7264,
+      "name": "Coolsculpting",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 276,
+      "worthItPercentage": "89%",
+      "numberOfReviews": 10,
+      "description": "Coolsculpting® es la firma comercial más extendida para hablar de criolipólisis, una técnica para eliminar el exceso de grasa localizada mediante la aplicación de frío de forma controlada. El tratamiento somete al tejido graso subcutáneo a temperaturas de -4ºC durante 1 hora, a pesar de que actualmente se realiza la técnica T2T que consiste en realizar 2 horas seguidas. De esta forma consigue que las células grasas se cristalicen y posteriormente se disuelvan, reduciendo el volumen de flancos, abdomen, cartucheras, etc.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7264_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7264_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7264_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/coolsculpting"
+    },
+    {
+      "id": 7164,
+      "name": "Eliminar grasa localizada",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 280,
+      "worthItPercentage": "70%",
+      "numberOfReviews": 21,
+      "description": "La grasa localizada aparece por diversos motivos en zonas como la barriga, las piernas o los brazos. Existen diferentes tratamientos no invasivos que permiten reducir estas adiposidades y recuperar la firmeza y elasticidad de la piel. En esta página encontrarás a los mejores especialistas y también, clínicas que ofrecen tratamientos para eliminar la grasa localizada.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7164_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7164_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7164_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/eliminar-grasa-localizada"
+    },
+    {
+      "id": 5574,
+      "name": "Blanqueamiento anal",
+      "moduleId": 243,
+      "slug": null,
+      "averagePrice": 350,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 3,
+      "description": "El blanqueamiento anal consiste en aclarar la piel de la zona anal con fines únicamente estéticos, normalmente con la ayuda de la tecnología láser aunque puede combinarse con cremas blanqueantes. La técnica y las sesiones necesarias dependerán de cada caso concreto y de la pigmentación de la zona. Consulta aquí qué médicos y clínicas realizan blanqueamiento anal.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5574_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5574_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5574_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/blanqueamiento-anal"
+    },
+    {
+      "id": 6311,
+      "name": "Lipo Vaser",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 4162,
+      "worthItPercentage": "85%",
+      "numberOfReviews": 24,
+      "description": "Aquí podrás ver a los mejores especialistas en Lipo Vaser®, la novedosa tecnología de liposucción por ultrasonido que permite una gran efectividad tanto en grandes zonas corporales como las piernas o el abdomen, como también en zonas reducidas como la papada o los tobillos. Consulta con las clínicas especializadas en Lipo Vaser® y consigue la silueta que siempre has deseado.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_6311_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_6311_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_6311_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lipo-vaser"
+    },
+    {
+      "id": 3916,
+      "name": "Hilos tensores",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 533,
+      "worthItPercentage": "44%",
+      "numberOfReviews": 31,
+      "description": "Gracias a los hilos tensores, que se colocan justo debajo de la piel, podrás lucir de un físico más terso y más joven. Los hilos tensores se pueden colocar en el rostro o en otras partes del cuerpo que lo necesiten como por ejemplo, los gúteos. Evita la flacidez facial gracias a las siguientes clínicas y médicos estéticos que Multiestetica te recomienda.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_3916_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_3916_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_3916_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/hilos-tensores"
+    },
+    {
+      "id": 7293,
+      "name": "Blefaroplastia láser",
+      "moduleId": 231,
+      "slug": null,
+      "averagePrice": 744,
+      "worthItPercentage": "70%",
+      "numberOfReviews": 3,
+      "description": "\r\nLa&nbsp;blefaroplastia láser es&nbsp;la cirugía de párpados mediante láser y también se denomina&nbsp;blefaroláser. El láser produce una&nbsp;incisión de los tejidos por vaporización por lo que&nbsp;no hay daño térmico y además, se consigue una gran&nbsp;precisión en el corte y se controla mejor el&nbsp;sangrado. Como se produce una inflamación y hematomas muy mínimos, a los pocos días se puede volver a la vida normal.&nbsp;\r\n",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7293_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7293_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7293_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/blefaroplastia-laser"
+    },
+    {
+      "id": 2307,
+      "name": "Eliminación de tatuajes",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 163,
+      "worthItPercentage": "67%",
+      "numberOfReviews": 47,
+      "description": "La eliminación de tatuajes utiliza técnicas de última generación basadas en la luz láser para hacer desaparecer un tatuaje en varias sesiones (dependiendo de su color, tamaño, antigüedad, etc). Si te interesa eliminar un tatuaje pero no sabes a qué clínica acudir, aquí encontrarás especialistas en esta técnica para que te puedas despedir de él de una vez por todas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_2307_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_2307_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_2307_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/eliminacion-de-tatuajes"
+    },
+    {
+      "id": 5569,
+      "name": "Blefaroplastia sin cirugía",
+      "moduleId": 231,
+      "slug": null,
+      "averagePrice": 744,
+      "worthItPercentage": "70%",
+      "numberOfReviews": 3,
+      "description": "La blefaroplastia sin cirugía se realiza generalmente gracias a la tecnología láser y permite eliminar de forma definitiva las bolsas de los párpados inferiores y el exceso de piel de los párpados superiores. Si crees que la blefaroplastia sin cirugía puede ser tu tratamiento ideal, consulta con los siguientes doctores y clínicas estéticas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5569_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5569_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5569_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/blefaroplastia-sin-cirugia"
+    },
+    {
+      "id": 1176,
+      "name": "Láser vascular",
+      "moduleId": 241,
+      "slug": null,
+      "averagePrice": 174,
+      "worthItPercentage": "73%",
+      "numberOfReviews": 7,
+      "description": "Los tratamientos de láser vascular se utilizan para solucionar cualquier problema de tipo vascular como puede ser la rosácea, las verrugas, las estrías o marcas de nacimiento, por ejemplo. Es la solución a todas las lesiones vasculares tanto en el rostro como también en el cuerpo. Si te interesa un tratamiento con láser vascular puedes contactar con las clínicas de esta página.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1176_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1176_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1176_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/laser-vascular"
+    },
+    {
+      "id": 2143,
+      "name": "Tratamiento varices",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 139,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 16,
+      "description": "Los tratamientos contra las varices resuelven las dilataciones patológicas que a menudo aparecen las piernas de muchas mujeres y algunos hombres. Según la causa y el tipo de varices los médicos optan por una u otra técnica terapéutica. Consulta el siguiente listado para encontrar a los mejores doctores especialistas en tratamiento de varices y olvídate de ellas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_2143_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_2143_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_2143_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/tratamiento-varices"
+    },
+    {
+      "id": 1154,
+      "name": "Corrección cicatrices",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 671,
+      "worthItPercentage": "63%",
+      "numberOfReviews": 60,
+      "description": "En ocasiones, a causa de accidentes y de heridas, pueden quedar ciatrices antiestéticas en nuestro cuerpo que incluso pueden convertirse en queloides o hipetróficas. Las siguientes clínicas y cirujanos plásticos te ofrecen servicios de corrección de cicatrices. Encuentra el mejor tratamiento para corregirlas de forma mínimamente invasiva y despídete de ellas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1154_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1154_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1154_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/correccion-cicatrices"
+    },
+    {
+      "id": 5160,
+      "name": "Tratamiento antimanchas",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 249,
+      "worthItPercentage": "77%",
+      "numberOfReviews": 28,
+      "description": "Tanto si son causadas por el sol, por la edad o si son de nacimiento, a nadie le gusta lucir las tan antiestéticas manchas. En Multiestetica te lo ponemos fácil y por eso te presentamos una selección de las mejores clínicas y especialistas que realizan tratamientos antimanchas. Los más comunes suelen ser el peeling, la microdermoabrasión o los procedimientos con tecnología láser.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5160_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5160_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5160_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/tratamiento-antimanchas"
+    },
+    {
+      "id": 4755,
+      "name": "Labioplastia",
+      "moduleId": 243,
+      "slug": null,
+      "averagePrice": 2056,
+      "worthItPercentage": "78%",
+      "numberOfReviews": 72,
+      "description": "La labioplastia es una tipología de cirugía íntima femenina. Con está intervención se consigue reducir el descolgamiento de los labios menores de la vagina. También se conoce como cirugía de labios menores. Este descolgamiento se puede deber a razones congénitas u otros motivos físicos y la cirugía puede ser de aumento o reducción. Los siguientes doctores y clínicas realizan esta cirugía.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4755_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4755_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4755_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/labioplastia"
+    },
+    {
+      "id": 7268,
+      "name": "Manchas de nacimiento",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 249,
+      "worthItPercentage": "77%",
+      "numberOfReviews": 28,
+      "description": "Las manchas de nacimiento son enrojecimientos o protuberancias en la piel que suelen ser visibles ya desde el nacimiento del bebé. Existen dos tipos de manchas de nacimiento y pueden presentar diferentes colores, generalmente marronosos, grises o negros o rojizos. Las manchas de nacimiento pueden ser tratadas para su mejora estética. Actualmente la tecnología láser ofrece soluciones sencillas para su eliminación. Dependiendo del tipo de mancha y -sobre todo- de su extensión, el láser conseguirá eliminar la mancha en un número determinado de sesiones.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7268_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7268_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7268_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/manchas-de-nacimiento"
+    },
+    {
+      "id": 675,
+      "name": "Tratamiento antiacné",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 251,
+      "worthItPercentage": "77%",
+      "numberOfReviews": 21,
+      "description": "El acné es una afección cutánea muy frecuente en personas de ambos sexos y de todas las edades. Existe acné en la adolescencia pero en muchos casos se puede desarrollar también en la edad adulta e incluso de forma más agresiva. Confía en el listado de profesionales y clínicas de tratamiento antiacné que te ofrecemos y consigue hacerlo desaparecer en pocas sesiones.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_675_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_675_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_675_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/tratamiento-antiacne"
+    },
+    {
+      "id": 667,
+      "name": "Lifting",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 8500,
+      "worthItPercentage": "70%",
+      "numberOfReviews": 41,
+      "description": "El objetivo del lifting facial consiste en corregir el aflojamiento de la piel de la cara y cuello tensando los músculos y readaptando la piel por encima de éstos. Esto suele ocurrir por el paso del tiempo, el estrés o la exposición prolongada al sol. No dudes en consultar a los mejores especialistas en lifting facial que verás a continuación para poner fin a los signos de la edad.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_667_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_667_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_667_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lifting"
+    },
+    {
+      "id": 6295,
+      "name": "HIFU",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 284,
+      "worthItPercentage": "54%",
+      "numberOfReviews": 6,
+      "description": "El sistema HIFU o ultrasonidos localizados, es una emisión ultrasónica de alta intensidad con resultados inmediatos que ofrece un rejuvenecimiento y tensado cutáneo. Esta técnica permite eliminar adipocitos y cúmulos de grasa localizados, dando lugar a la remodelación corporal. Si buscas clínicas y doctores que realicen el sistema HIFU las podrás ver a continuación.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_6295_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_6295_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_6295_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/hifu"
+    },
+    {
+      "id": 5300,
+      "name": "Rejuvenecimiento vaginal",
+      "moduleId": 243,
+      "slug": null,
+      "averagePrice": 998,
+      "worthItPercentage": "86%",
+      "numberOfReviews": 6,
+      "description": "Las mujeres son cada vez más conscientes que la seguridad en una misma es primordial a la hora de mantener el autoestima alta. Por eso actualmente se realizan intervenciones de cirugía íntima que buscan mejorar la calidad de vida como por ejemplo, el rejuvenecimiento vaginal. Descubre los profesionales y clínicas de Multiestetica que pueden ayudarte.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5300_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5300_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5300_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rejuvenecimiento-vaginal"
+    },
+    {
+      "id": 5585,
+      "name": "Lipofilling",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 2819,
+      "worthItPercentage": "75%",
+      "numberOfReviews": 3,
+      "description": "El lipofilling es un tratamiento que consigue aumentar zonas el cuerpo como las mamas, los labios o los glúteos con grasa autóloga del paciente, grasa extraída previamente. Este tratamiento aporta buenos resultados y la grasa a diferencia de otros rellenos, no puede provocar rechazo. Si te interesa este tratamiento, descubre aquí qué cirujanos y clínicas estéticas lo realizan.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5585_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5585_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5585_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lipofilling"
+    },
+    {
+      "id": 5867,
+      "name": "Xantelasmas",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 321,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 7,
+      "description": "Los xantelasmas son pequeños depósitos de grasa que aparecen alrededor de los párpados y que se eliminan, generalmente, con tecnología láser o excisión quirúrgica. Pueden aparecer en el párpado inferior y en el superior y en ocasiones, pueden ser bilaterales (en los dos ojos). Se pueden tratar con láser o con cirugía y pueden volver a aparecer con el tiempo. Estas clínicas son especialistas en su tratamiento.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5867_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5867_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5867_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/xantelasmas"
+    },
+    {
+      "id": 2063,
+      "name": "Rinomodelación",
+      "moduleId": 229,
+      "slug": null,
+      "averagePrice": 437,
+      "worthItPercentage": "79%",
+      "numberOfReviews": 36,
+      "description": "Existe una alternativa a pasar por el quirófano que se denomina rinomodelación. En estos casos,un especialista estético moldea la nariz inyectando implantes, sin necesidad de cirugía pero con resultados temporales. Esta técnica suele ser usada para disminuir la giba, subir la punta, rellenar depresiones o mejorar asimetrías. Estos doctores y clínicas realizan este procedimiento.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_2063_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_2063_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_2063_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rinomodelacion"
+    },
+    {
+      "id": 1140,
+      "name": "Drenaje linfático",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 48,
+      "worthItPercentage": "78%",
+      "numberOfReviews": 12,
+      "description": "El drenaje linfático es un tipo de masaje que mejora y ayuda al correcto funcionamiento del sistema linfático de nuestro cuerpo. Este masaje puede realizarse de forma manual o mecánica dependiendo de cada caso. Se puede realizar en zonas como el abdomen, piernas o glúteos dependiendo de cada caso. Si buscas clínicas que realizan drenajes linfáticos las podrás ver aquí.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1140_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1140_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1140_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/drenaje-linfatico"
+    },
+    {
+      "id": 678,
+      "name": "Celulitis",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 166,
+      "worthItPercentage": "94%",
+      "numberOfReviews": 25,
+      "description": "La celulitis es una inflamación de las células que puede eliminarse mediante dietas y métodos especializados. Si no consigues eliminar la celulitis ni con buena alimentación ni con ejercicio, te presentamos un listado completo de clínicas estéticas que te ayudarán a acabar con la celulitis ya sea a través de la mesoterapia, la cavitación o el tratamiento más adecuado para tu caso.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_678_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_678_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_678_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/celulitis"
+    },
+    {
+      "id": 1144,
+      "name": "Aumento mentón",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 2176,
+      "worthItPercentage": "27%",
+      "numberOfReviews": 6,
+      "description": "La mentoplastia o el aumento de mentón es la cirugía mediante la cual se inserta un implante que puede ser rígido o inyectable para mejorar el aspecto de esa zona del rostro y conseguir una mejor armonía facial. Los implantes serán diferentes según los resultados que se deseen lograr. En esta página podrás contactar con los mejores cirujanos especialistas en aumento de mentón.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1144_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1144_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1144_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/aumento-menton"
+    },
+    {
+      "id": 7048,
+      "name": "Lipedema",
+      "moduleId": 241,
+      "slug": null,
+      "averagePrice": 4975,
+      "worthItPercentage": "0%",
+      "numberOfReviews": 1,
+      "description": "El lipedema se caracteriza por tener los miembros inferiores muy desproporcionados con el resto del cuerpo. Se suele tratar mediante una cirugía de liposucción que se realiza bajo anestesia regional o local y sedación. De esta forma, se extrae tejido adiposo del cuerpo mediante cánulas para poder moldear las zonas afectadas. En esta página encontrarás a los mejores cirujanos plásticos y clínicas especializadas en tratar el lipedema.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7048_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7048_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7048_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lipedema"
+    },
+    {
+      "id": 1149,
+      "name": "Aumento glúteos",
+      "moduleId": 240,
+      "slug": null,
+      "averagePrice": 6128,
+      "worthItPercentage": "65%",
+      "numberOfReviews": 27,
+      "description": "El aumento de glúteos es una cirugía que puede realizarse mediante diferentes métodos: con lipoinyección (con grasa autóloga extraída y purificada previamente) o con implantes de silicona especiales para esta zona que sirven para aumentar el volumen y mejorar la forma del gúteo. Encuentra aquí los mejores cirujanos plásticos especialistas en aumento de glúteos.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1149_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1149_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1149_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/aumento-gluteos"
+    },
+    {
+      "id": 4155,
+      "name": "Carboxiterapia",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 217,
+      "worthItPercentage": "60%",
+      "numberOfReviews": 25,
+      "description": "La carboxiterapia es un tratamiento cosmético no quirúrgico que consiste en la aplicación subcutánea de dióxido de carbono mediante una fina aguja. Se trata de una buena alternativa para perder peso si no se quiere optar por una liposucción. La duración de una sesión de carboxiterapia ronda entre los 30 y los 60 minutos. Aquí podrás ver qué doctores y clínicas realizan tratamientos de carboxiterapia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4155_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4155_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4155_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/carboxiterapia"
+    },
+    {
+      "id": 7058,
+      "name": "EMSculpt®",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 225,
+      "worthItPercentage": null,
+      "numberOfReviews": 1,
+      "description": "EMSculpt® es un dispositivo de energía electromagnética de alta intensidad, abalado por la FDA americana, con el que se puede realizar un tratamiento no invasivo que permite tonificar y eliminar la grasa de varias zonas del cuerpo (como por ejemplo el abdomen) a la vez que lo define. En esta página encontrarás a los mejores especialistas en EMSculpt®.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7058_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7058_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7058_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/emsculpt"
+    },
+    {
+      "id": 7271,
+      "name": "Ondas de choque",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 166,
+      "worthItPercentage": "94%",
+      "numberOfReviews": 25,
+      "description": "Las ondas de choque (ESWT) son ondas acústicas que transportan energía para promover la regeneración de los tejidos y acelerar los procesos reparadores. Se trata de ondas acústicas que se transmiten directamente al cuerpo y sirven para varios propósitos como la lucha contra la celulitis, las cicatrices, la flacidez, las adiposidades localizadas, las estrías o el rejuvenecimiento. El tratamiento con ondas de choque regenera las células y es complementario a intervenciones como la liposucción o la abdominoplastia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7271_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7271_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7271_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/ondas-de-choque"
+    },
+    {
+      "id": 4749,
+      "name": "Tratamiento capilar",
+      "moduleId": 235,
+      "slug": null,
+      "averagePrice": 257,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 27,
+      "description": "La caída del cabello es una de las mayores preocupaciones de los hombres de mediana edad y, cada vez más, también de algunas mujeres. Puede ocurrir por varios factores como estrés o herencia genética. Encuentra soluciones para la caída y el crecimiento del cabello en los centros especializados que cuentan con los mejores profesionales en tratamientos capilares.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4749_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4749_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4749_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/tratamiento-capilar"
+    },
+    {
+      "id": 5161,
+      "name": "Hidrolipoclasia",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 1000,
+      "worthItPercentage": "81%",
+      "numberOfReviews": 16,
+      "description": "Ya no tienes excusa para acabar de una vez por todas con la grasa localizada y la celulitis. Una gran alternativa a la cirugía es la hidrolipoclasia, una liposucción sin cirugía que te ayudará a remodelar tu cuerpo en una sola sesión. Si quieres más información contacta con las siguientes clínicas estéticas y cirujanos especialistas en hidrolipoclasia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5161_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5161_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5161_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/hidrolipoclasia"
+    },
+    {
+      "id": 7266,
+      "name": "Intralipoterapia",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 1000,
+      "worthItPercentage": "81%",
+      "numberOfReviews": 16,
+      "description": "La introlipoterapia es un procedimiento médico estético que consiste en la inyección de ácido desoxicólico en las zonas adiposas para favorecer la eliminación de grasa. La sustancia ayuda a licuar el tejido adiposo, convirtiéndolo así en un estado más líquido que se expulsa del cuerpo fácilmente mediante el sistema linfático. El ácido desoxicólico es totalmente biocompatible y se expulsa del organismo de forma natural. El procedimiento está contraindicado para mujeres embarazadas o lactantes, diabéticos, personas que padezcan alguna infección o afecciones graves del corazón, riñón o hígado.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7266_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7266_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7266_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/intralipoterapia"
+    },
+    {
+      "id": 1170,
+      "name": "Eliminación arrugas",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 409,
+      "worthItPercentage": "63%",
+      "numberOfReviews": 27,
+      "description": "Con los años aparecen las temidas arrugas y también las marcas de expresión en la cara que envejecen y nos dan una imagen cansada y hasta más triste. Las siguientes clínicas estéticas y doctores te ofrecen servicios de eliminación de arrugas. Contacta con ellos y encuentra el tratamiento antiarrugas que mejor encaja con los resultados que estás buscando.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1170_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1170_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1170_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/eliminacion-arrugas"
+    },
+    {
+      "id": 5015,
+      "name": "Himenoplastia",
+      "moduleId": 243,
+      "slug": null,
+      "averagePrice": 1938,
+      "worthItPercentage": "100%",
+      "numberOfReviews": null,
+      "description": "La himenoplastia, también conocido como restauración de himen, es una intervención quirúrgica que consiste en la reparación y restitución del himen, la membrana que cubre la entrada de la vagina de la mujer. La operación se realiza con anestesia local. Si estás interesada en realizarte una cirugía de himenoplastia, a continuación podrás ver a los mejores especialistas y clínicas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5015_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5015_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5015_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/himenoplastia"
+    },
+    {
+      "id": 1150,
+      "name": "Aumento gemelos",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 5867,
+      "worthItPercentage": "67%",
+      "numberOfReviews": 1,
+      "description": "El aumento de gemelos es una operación que se realiza para mejorar el aspecto de las piernas con pantorrillas poco formadas o desarrolladas. La intervención puede conseguirse con prótesis de silicona especiales o lipotransferencia con grasa autóloga del paciente dependiendo de cada caso. Los mejores cirujanos y clínicas especialistas en aumento de gemelos están aquí.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1150_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1150_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1150_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/aumento-gemelos"
+    },
+    {
+      "id": 4758,
+      "name": "Cambio de sexo",
+      "moduleId": 243,
+      "slug": null,
+      "averagePrice": 13000,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 1,
+      "description": "El cambio de sexo supone someterse a una difícil intervención quirúrgica con un largo post-operatorio. El paciente o la paciente que quiera cambiar su sexo debe tener en cuenta que los meses posteriores a la operación deberá realizar ejercicios físicos y deberán acostumbrarse psicológicamente a su nuevo miembro. Los siguientes cirujanos son especialistas en cambio de sexo.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4758_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4758_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4758_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/cambio-de-sexo"
+    },
+    {
+      "id": 5564,
+      "name": "Rosácea",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 272,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 3,
+      "description": "La rosácea es una afección de la piel que provoca la coloración roja de determinadas zonas concretas de la piel del rostro. No tiene curación como tal pero hay tratamientos como el láser IPL que permiten minimizar las rojeces y mejorar la calidad de vida del paciente que la sufre. En Multiestetica contamos con los mejores doctores y te ayudarán a tratar la rosácea.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5564_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5564_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5564_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rosacea"
+    },
+    {
+      "id": 7270,
+      "name": "Disfunción eréctil",
+      "moduleId": 244,
+      "slug": null,
+      "averagePrice": 4400,
+      "worthItPercentage": "56%",
+      "numberOfReviews": 4,
+      "description": "La disfunción eréctil, también conocida como impotencia sexual masculina, es una incapacidad que impide tener o mantener una erección. Generalmente, impide que una relación sexual sea plenamente satisfactoria y puede causar estrés y falta de confianza entre los que la sufren. La disfunción eréctil puede ser causada por diabetes, hipertensión arterial. colesterol, tabaco, alcohol y fármacos. También se puede deber a estrés, la ansiedad o los nervios. La impotencia sexual masculina suele ser más notoria cuando se envejece.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7270_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7270_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7270_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/disfuncion-erectil"
+    },
+    {
+      "id": 4751,
+      "name": "Trasplantes capilares",
+      "moduleId": 235,
+      "slug": null,
+      "averagePrice": 3998,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 7,
+      "description": "Los trasplantes capilares proporcionan unos resultados definitivos y permanentes porque en ellos se utilizan pelo propio de la nuca o del lateral de la cabeza. Como es pelo propio, los trasplantes capilares permiten evitar el efecto destructor de la dihidrotestosterona. En Multiestetica contamos con las mejores clínicas especialistas en trasplantes capilares.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4751_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4751_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4751_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/trasplantes-capilares"
+    },
+    {
+      "id": 7174,
+      "name": "Vitíligo",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 80,
+      "worthItPercentage": null,
+      "numberOfReviews": null,
+      "description": "El vitíligo está relacionado con la presencia de manchas blancas en la piel que van avanzando de forma progresiva en quien la padece. Hablamos de un trastorno autoinmunitario crónico y de larga duración que provoca la pérdida de la pigmentación natural de la piel. En esta página puedes encontrar a los mejores profesionales y clínicas especializadas en vitíligo.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7174_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7174_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7174_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/vitiligo"
+    },
+    {
+      "id": 665,
+      "name": "Otoplastia",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 2483,
+      "worthItPercentage": "87%",
+      "numberOfReviews": 63,
+      "description": "La otoplastia es la cirugía que corrige y reposiciona las orejas prominentes o comunmente denominadas de soplillo para lograr que tengan una posición y forma más armónica con el resto del rostro del paciente. Comunmente se realiza en pacientes menores de edad cuando las orejas ya están formadas. Encuentra aquí las mejores clínicas especialistas en la cirugía de la otoplastia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_665_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_665_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_665_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/otoplastia"
+    },
+    {
+      "id": 4162,
+      "name": "Carillas dentales",
+      "moduleId": 234,
+      "slug": null,
+      "averagePrice": 365,
+      "worthItPercentage": "67%",
+      "numberOfReviews": 1,
+      "description": "Las carillas dentales son láminas muy finas que se colocan sobre los dientes para mejor el aspecto de la dentadura y enmascarar anomalías. Las carillas pueden estar hechas con distintos materiales como porcelana o composite aunque las más comunes suelen ser de porcelana. Esta técnica se utiliza también para lucir una sonrisa más atractiva. En esta página podrás ver clínicas especializadas en la colocación de carillas dentales.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4162_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4162_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4162_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/carillas-dentales"
+    },
+    {
+      "id": 3917,
+      "name": "Lifting sin cirugía",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 1398,
+      "worthItPercentage": "71%",
+      "numberOfReviews": 6,
+      "description": "Puedes evitar pasar por quirófano y lucir un rostro rejuvenecido y fino, gracias al lifting sin cirugía. Uno de los tratamientos que se pueden realizar son por ejemplo, pequeñas inyecciones prácticamente indoloras de substancias de relleno. Si estás buscando médicos estéticos y clínicas especialistas en lifting sin cirugía, en Multiestetica te recomendamos a los mejores.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_3917_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_3917_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_3917_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/lifting-sin-cirugia"
+    },
+    {
+      "id": 5315,
+      "name": "Tratamiento obesidad",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 3500,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 29,
+      "description": "El tratamiento de la obesidad responde a muchos y diferentes procedimientos, tanto para mejorar en el ámbito estético como en la salud del paciente. Existen varios métodos como la cavitación o los drenajes linfáticos que junto a una buena alimentación y ejercicio, pueden maximizar los resultados. Descubre aquí las clínicas que realizan tratamientos para la obesidad.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5315_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5315_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5315_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/tratamiento-obesidad"
+    },
+    {
+      "id": 4760,
+      "name": "Cirugía maxilofacial",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 13000,
+      "worthItPercentage": "82%",
+      "numberOfReviews": 11,
+      "description": "La cirugía maxilofacial es la especialidad médico-quirúrgica que se ocupa de la prevención, estudio, diagnóstico, tratamiento y rehabilitación de la cavidad bucal y del territorio craneofacial, así como de las estructuras cervicales relacionadas directa o indirectamente con estas estructuras. No dudes en ponerte en contacto con los mejores cirujanos especialistas en cirugía maxilofacial.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4760_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4760_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4760_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/cirugia-maxilofacial"
+    },
+    {
+      "id": 5565,
+      "name": "Cuperosis",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 163,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 2,
+      "description": "La cuperosis es un estado de la piel que provoca rojeces, especialmente en el rostro y está relacionada con problemas de circulación ya que se manifiesta porque se produce una dilatación de los vasos capilares. Representa una forma de rosácea. Si estás buscando un tratamiento para mejorar la cuperosis, en Multiestetica podrás encontrar los mejores médicos especialistas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5565_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5565_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5565_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/cuperosis"
+    },
+    {
+      "id": 5866,
+      "name": "Angiomas",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 233,
+      "worthItPercentage": "75%",
+      "numberOfReviews": 1,
+      "description": "Los angiomas o hemangiomas son pequeñas lesiones de color rojizo que aparecen en la piel, generalmente en niños, y que suelen desaparecer de forma espontánea durante su primer año de edad. El tratamiento para eliminar los angiomas se realiza con fármacos y/o empleando la tecnología láser aunque en ocasiones, desaparecen sin la necesidad de tratamiento. Estas clínicas son especialistas en tratar angiomas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5866_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5866_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5866_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/angiomas"
+    },
+    {
+      "id": 7408,
+      "name": "Skinbooster",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 300,
+      "worthItPercentage": null,
+      "numberOfReviews": 1,
+      "description": "Los skinboosters son tratamientos inyectables que hidratan la piel en profundidad y mejoran su luminosidad, textura y firmeza desde dentro. Ideales para rostro, cuello o manos, estimulan la producción de colágeno y aportan un aspecto más fresco y rejuvenecido. Descubre clínicas especializadas cerca de ti y recupera la vitalidad de tu piel.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7408_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7408_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7408_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/skinbooster"
+    },
+    {
+      "id": 7223,
+      "name": "Mesoterapia capilar",
+      "moduleId": 235,
+      "slug": null,
+      "averagePrice": 150,
+      "worthItPercentage": null,
+      "numberOfReviews": 1,
+      "description": "La caída del cabello está causada, entre otras cosas, por la herencia, las hormonas, la edad o incluso el parto. Tras establecer el diagnóstico, el especialista propondrá un tratamiento que, en cualquier caso, deberá ser prolongado y complejo. Además de eliminar la caída, la mesoterapia capilar también refuerza el crecimiento del cabello, que recupera su fuerza, resistencia y brillo.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7223_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7223_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7223_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/mesoterapia-capilar"
+    },
+    {
+      "id": 4336,
+      "name": "Reducción de estómago",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 9000,
+      "worthItPercentage": "85%",
+      "numberOfReviews": 5,
+      "description": "La reducción de estómago sin cirugía se realiza mediante procedimientos endoscópicos que utilizan un tubo flexible (endoscopio) con cámara e instrumentos especializados para modificar la forma o capacidad del estómago sin necesidad de cortes ni incisiones.\r\n",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4336_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4336_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4336_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/pose-reduccion-de-estomago"
+    },
+    {
+      "id": 5725,
+      "name": "Manga gástrica",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 12000,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 3,
+      "description": "La gastrectomia tubular, más conocida como manga gástrica, es la técnica de la cirugía bariátrica que consiste en extirpar una parte del estómago con el objetivo de provocar en menor tiempo sensación de saciedad. El paciente al tener el estómago reducida hasta 2/3 de su volumen original va perdiendo peso de forma paulatina. Los siguientes doctores y clínicas son especialistas en el procedimiento de manga gástrica.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5725_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5725_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5725_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/manga-gastrica"
+    },
+    {
+      "id": 1173,
+      "name": "Rellenos faciales",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 424,
+      "worthItPercentage": "78%",
+      "numberOfReviews": 44,
+      "description": "Para modificar y mejorar el aspecto de nuestro rostro es muy común utilizar implantes o rellenos como por ejemplo, los de ácido hialurónico o grasa autóloga del propio paciente que se extrae previamente de otra zona. Las siguientes clínicas estéticas y doctores te ofrecen varios tratamientos con la aplicación de rellenos faciales. Consulta tu tratamiento ideal.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1173_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1173_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1173_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/rellenos-faciales"
+    },
+    {
+      "id": 672,
+      "name": "Depilación láser",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 167,
+      "worthItPercentage": "92%",
+      "numberOfReviews": 192,
+      "description": "La depilación láser es un procedimiento médico especializado, realizado con herramientas muy precisas que harán desaparecen el vello de las zonas más complicadas de forma permanente. Existen varios tipos de láser en el mercado como por ejemplo, el láser Alejandrita o el láser de Diodo. Si estás interesado en la depilación láser encontrarás a continuación clínicas y doctores.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_672_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_672_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_672_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/depilacion-laser"
+    },
+    {
+      "id": 5704,
+      "name": "Cirugía reconstructiva",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 3937,
+      "worthItPercentage": "93%",
+      "numberOfReviews": 26,
+      "description": "La cirugía plástica reconstructiva es una área que se ocupa de reparar quirúrgicamente defectos físicos o anomalías, ya sean de nacimiento o provocados por un agente externo. Este tipo de cirugías estéticas requieren un alto grado de perfección para conseguir resultados óptimos. Encuentra a continuación los mejores doctores en cirugía reconstructiva.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5704_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5704_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5704_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/cirugia-reconstructiva"
+    },
+    {
+      "id": 7267,
+      "name": "Fotodepilación",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 167,
+      "worthItPercentage": "92%",
+      "numberOfReviews": 192,
+      "description": "La fotodepilación (o IPL) es el sistema de depilación permanente que actúa mediante la tecnología de la Luz Pulsada Intensa. Dependiendo del fototipo de la piel, el médico estético te recomendará un sistema u otro de depilación permanente. Está especialmente indicada para personas con piel clara y vello fino. Las sesiones dependen de la zona a tratar. Por ejemplo, una sesión de piernas enteras puede oscilar entre los 20 y los 40 minutos. La fotodepilación ha demostrado ser efectiva, con una disminución del crecimiento del vello de hasta un 95%.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7267_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7267_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7267_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/fotodepilacion"
+    },
+    {
+      "id": 690,
+      "name": "Mesoterapia",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 158,
+      "worthItPercentage": "79%",
+      "numberOfReviews": 62,
+      "description": "La mesoterapia consiste en tratar las zonas afectadas con microinyecciones de medicamentos de medicina tradicional, homeopática, vitaminas, minerales o aminoácidos. Es una de las técnicas más utilizadas para la reducción de peso, celulitis, pérdida capilar, tratamiento de cicatrices y arrugas, etc. Si buscas clínicas y doctores especialistas en mesoterapia los podrás ver a continuación.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_690_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_690_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_690_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/mesoterapia"
+    },
+    {
+      "id": 1168,
+      "name": "Peeling",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 216,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 40,
+      "description": "El peeling es un tratamiento estético que consigue un efecto rejuvenecedor de la piel de la cara. Pero además de este rejuvenecimiento facial, realiza una limpieza de la piel que hace que luzca perfecta y con menos imperfecciones. Descubre los siguientes centros estéticos y doctores para saber si el peeling es el tratamiento estético que necesita tu piel para lucir más radiante.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1168_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1168_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1168_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/peeling"
+    },
+    {
+      "id": 4315,
+      "name": "Micropigmentación",
+      "moduleId": 233,
+      "slug": null,
+      "averagePrice": 329,
+      "worthItPercentage": "87%",
+      "numberOfReviews": 51,
+      "description": "La micropigmentación es un tratamiento estético en auge en el sector de la belleza. La micropigmentación, también conocida como maquillaje permanente, consiste en implementar pigmentos específicos en la piel como sustitución o maquillaje en cejas, labios, párpados, etc. Si estás buscando clínicas estéticas que realicen este tratamiento, estás en el sitio perfecto.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4315_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4315_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4315_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/micropigmentacion"
+    },
+    {
+      "id": 1175,
+      "name": "Radiofrecuencia facial",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 133,
+      "worthItPercentage": "73%",
+      "numberOfReviews": 32,
+      "description": "Uno de los tratamientos de rejuvenecimiento facial menos invasivo, pero no por eso menos eficaz, es la radiofrecuencia facial. Este método consigue eliminar las líneas de expresión y las arrugas de la cara, aportando así un aspecto más juvenil y cuidado a tu rostro. Si quieres descubrir qué clínicas y doctores están especializados en tratamientos de radiofrecuencia facial los podrás ver a continuación.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1175_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1175_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1175_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/radiofrecuencia-facial"
+    },
+    {
+      "id": 1152,
+      "name": "Ginecomastia",
+      "moduleId": 242,
+      "slug": null,
+      "averagePrice": 3674,
+      "worthItPercentage": "73%",
+      "numberOfReviews": 22,
+      "description": "La ginecomastia es un problema patológico que provoca el aumento de las mamas en los hombres por culpa de desajustes hormonales. Hoy en día existen las siguientes clínicas y cirujanos plásticos que realizan cirugías para solucionar este problema. Si tienes ginecomastia no dudes en ponerte en contacto con ellos para que el pecho excesivamente grande no sea un problema.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1152_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1152_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1152_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/ginecomastia"
+    },
+    {
+      "id": 6098,
+      "name": "Marcación abdominal",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 6165,
+      "worthItPercentage": "75%",
+      "numberOfReviews": null,
+      "description": "La marcación abdominal o limpomarcación es una intervención que permite definir los músculos abdominales tanto en hombres como en mujeres. Con esta cirugía se consigue adherir la piel a la pared abdominal logrando un aspecto más atlético a esta zona. Si estás interesado en este tratamiento puedes ver aquí todos los cirujanos plásticos y clínicas que lo realizan.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_6098_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_6098_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_6098_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/marcacion-abdominal"
+    },
+    {
+      "id": 1143,
+      "name": "Aumento pómulos",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 445,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 10,
+      "description": "El aumento de pómulos o mejillas ayuda a mejorar el aspecto de tu rostro, sobretodo si tienes unas mejillas con una estructura poco definida o si, con los años has ido perdiendo el contorno de los pómulos. Normalmente se rellenan los pómulos con ácido hialurónico. Contacta con los mejores doctores y clínicas especializadas en aumento de pómulos en esta página.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1143_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1143_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1143_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/aumento-pomulos"
+    },
+    {
+      "id": 2118,
+      "name": "Ortodoncia invisible",
+      "moduleId": 234,
+      "slug": null,
+      "averagePrice": 3780,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 4,
+      "description": "La ortodoncia de la que todo el mundo habla: la ortodoncia invisible, un método con el que se corrigen las maloclusiones con unas férulas casi invisibles y removibles. El tratamiento tiene una duración de unos dos años y hay que ir realizando visitas periódicas para cambiar las férulas y asegurar que todo está correcto. Aquí podrás ver a las mejores clínicas dentales especializadas en la ortodoncia invisible.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_2118_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_2118_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_2118_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/ortodoncia-invisible"
+    },
+    {
+      "id": 6440,
+      "name": "Microblading",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 450,
+      "worthItPercentage": "88%",
+      "numberOfReviews": 16,
+      "description": "El microblading es una técnica estética que permite reconstruir o definir las cejas ya sea por motivos estéticos, hereditarios o tras un tatamiento médico. Con el microblading se consigue un resultado natural ya que se reconstruyen o redefinen las pequeñas calvas de las cejas gracias a un maquillaje semi permanente.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_6440_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_6440_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_6440_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/microblading"
+    },
+    {
+      "id": 7269,
+      "name": "Sonrisa gingival",
+      "moduleId": 234,
+      "slug": null,
+      "averagePrice": 3137,
+      "worthItPercentage": "83%",
+      "numberOfReviews": 16,
+      "description": "La sonrisa gingival es un problema estético que puede tratarse con técnicas quirúrgicas, tratamientos odontológicos o médico estéticos. La cirugía maxilofacial corrige la sonrisa gingival, haciendo hincapié en el maxilar superior. Es una cirugía que se realiza con anestesia local y que no presenta muchas complicaciones. También puede recurrirse a la ortodoncia, un tratamiento que consigue mejorar la sonrirsa gingival en gran medida, y en aproximadamente 2 años de tratamiento. Aún así, actualmente ha aumentado el uso de la toxina botulínica para corregir la sonrisa gingival.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7269_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7269_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7269_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/sonrisa-gingival"
+    },
+    {
+      "id": 7224,
+      "name": "Marcación mandibular",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 687,
+      "worthItPercentage": null,
+      "numberOfReviews": null,
+      "description": "La marcación mandibular define el contorno de la mandíbula para lograr un rostro más armónico y perfilado. Es un tratamiento no invasivo, rápido y con resultados naturales que destacan la estructura facial.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7224_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7224_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7224_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/marcacion-mandibular"
+    },
+    {
+      "id": 6441,
+      "name": "Microdermoabrasión",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 66,
+      "worthItPercentage": "50%",
+      "numberOfReviews": 4,
+      "description": "La microdermoabrasión es un procedimiento estético no invasivo que tiene como objetivo eliminar la capa más superficial de la piel a través de microcristales. Con la microdermoabrasión se consigue exfoliar la piel, eliminar las células muertas, las impurezas y atenuar las cicatrices y las arrugas superficiales.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_6441_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_6441_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_6441_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/microdermoabrasion"
+    },
+    {
+      "id": 7410,
+      "name": "Bypass gástrico",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 12500,
+      "worthItPercentage": "80%",
+      "numberOfReviews": null,
+      "description": "El bypass gástrico es una cirugía bariátrica que reduce el tamaño del estómago y modifica el recorrido del intestino, limitando la cantidad de comida que se puede ingerir y absorber. Este procedimiento ayuda a perder peso de forma significativa y mejora enfermedades asociadas a la obesidad, como la diabetes tipo 2 o la hipertensión.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_7410_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_7410_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_7410_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/bypass-gastrico"
+    },
+    {
+      "id": 4748,
+      "name": "Alopecia",
+      "moduleId": 235,
+      "slug": null,
+      "averagePrice": 4013,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 9,
+      "description": "La alopecia es la pérdida exagerada de cabello, normalmente en la zona de la cabeza aunque puede ocurrir en otras partes del cuerpo. Puede darse por motivos de salud pero, sobre todo, tiene connotaciones genéticas. Es más habitual que afecte a hombres, aunque algunas mujeres también la padecen. Los siguientes doctores y clínicas son especialistas en tratar la alopecia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4748_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4748_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4748_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/alopecia"
+    },
+    {
+      "id": 680,
+      "name": "Blanqueamiento dental",
+      "moduleId": 234,
+      "slug": null,
+      "averagePrice": 223,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 15,
+      "description": "Las técnicas de blanqueamiento dental, que eliminan el efecto de manchas o coloraciones, constituyen actualmente uno de los recursos con mejores expectativas dentro de los tratamientos estéticos bucales. Existen varias técnicas pero la más extendida en la actualidad es mediante luz LED o mediante la tecnología láser. Ponte en contacto con verdaderos profesionales del blanqueamiento dental.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_680_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_680_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_680_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/blanqueamiento-dental"
+    },
+    {
+      "id": 2056,
+      "name": "Cavitación",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 93,
+      "worthItPercentage": "78%",
+      "numberOfReviews": 21,
+      "description": "La cavitación consiste en romper la composición molecular de los adipositos, unidades mínimas de grasa. Después de las sesiones de cavitación, el organismo no los reconoce como adipositos, sino que como partículas para desechar mediante el sistema linfático o circulatorio. Consulta aquí qué clínicas y doctores realizan tratamientos de cavitación.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_2056_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_2056_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_2056_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/cavitacion"
+    },
+    {
+      "id": 5011,
+      "name": "Banda gástrica",
+      "moduleId": 238,
+      "slug": null,
+      "averagePrice": 8000,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 2,
+      "description": "La banda gástrica es una solución perfecta para aquellas personas que necesitan reducir peso con supervisión médica después de haber probado dietas u otros métodos sin éxito. Se trata de un anillo que presiona una parte del estómago para reducir su tamaño y que la sensación de saciedad llegue antes. En esta página podrás ver doctores y clínicas que realizan la técnica de la banda gástrica.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5011_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5011_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5011_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/banda-gastrica"
+    },
+    {
+      "id": 5327,
+      "name": "Queiloplastia",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 1608,
+      "worthItPercentage": "91%",
+      "numberOfReviews": 7,
+      "description": "La queiloplastia ya sea primera, secundaria o reparadora, es la intervención que trata de moldear, perfilar y mejorar el aspecto de los labios. Actualmente se llevan a cabo intervenciones para retirar las prótesis de silicona colocadas hace años que buscaban aumentar el volumen de los labios. Consulta aquí las clínicas especialistas en queiloplastia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5327_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5327_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5327_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/queiloplastia"
+    },
+    {
+      "id": 4756,
+      "name": "Vaginoplastia",
+      "moduleId": 243,
+      "slug": null,
+      "averagePrice": 2348,
+      "worthItPercentage": "67%",
+      "numberOfReviews": 4,
+      "description": "La vaginoplastia entra dentro de la especialización de cirugía íntima. Se trata de una de las cirugías plásticas más demandadas entre las mujeres. Se conoce como rejuvenecimiento vaginal o estrechamiento vaginal y se consigue devolviéndoles a los músculos de la vagina la tonicidad. Los siguientes especialistas y clínicas realizan cirugías de vaginoplastia.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4756_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4756_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4756_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/vaginoplastia"
+    },
+    {
+      "id": 5309,
+      "name": "Sudoración excesiva",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 506,
+      "worthItPercentage": "50%",
+      "numberOfReviews": 5,
+      "description": "La sudoración excesiva es un problema que puede afectar a nivel social e incluso profesional. Para solucionarlo, las infiltraciones de toxina botulínica han resultado ser la mejor opción, reduciendo el problema y sin presentar efectos secundarios. Si quieres encontrar una solución para tu hiperidrosis estás en el sitio adecuado. Consulta en esta página qué clínicas y doctores realizan el tratamiento.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_5309_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_5309_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_5309_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/sudoracion-excesiva"
+    },
+    {
+      "id": 6478,
+      "name": "Microneedling",
+      "moduleId": 232,
+      "slug": null,
+      "averagePrice": 121,
+      "worthItPercentage": "75%",
+      "numberOfReviews": 3,
+      "description": "El microneedling es un tratamiento estético que permite mejorar las cicatrices, las marcas de acné y la hiperpigmentación mediante microagujas que, a través de microheridas, regeneran la piel y mejoran también los signos de la edad. Con este procedimiento se estimula la dermis, se induce el cólageno y se reparan los tejidos.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_6478_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_6478_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_6478_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/microneedling"
+    },
+    {
+      "id": 676,
+      "name": "Dietas",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 88,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 113,
+      "description": "La mejor forma de llevar unos hábitos de vida equilibrados es cuidar la alimentación, llevando una dieta saludable. Si lo que necesitas es mejorar tu peso, ponte en manos de los mejores nutricionistas, que te pautarán una dieta personalizada que se adapta a ti y a tu estilo de vida. Si no sabes dónde encontrarlos, a continuación podrás ver clínicas especialistas en dietas.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_676_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_676_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_676_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/dietas"
+    },
+    {
+      "id": 683,
+      "name": "Implantes dentales",
+      "moduleId": 234,
+      "slug": null,
+      "averagePrice": 1206,
+      "worthItPercentage": "85%",
+      "numberOfReviews": 20,
+      "description": "Los implantes dentales surgen para restaurar las bocas que tienen pocos o ningún diente mediante la colocación de pequeñas piezas de metal colocadas en la mandíbula. Estas piezas ayudan a sostener los dientes artificiales que se colocarán cuando la estructura de titanio que se introduce en el hueso maxilar esté bien integrada. Las siguientes clínicas dentales realizan implantes dentales.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_683_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_683_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_683_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/implantes-dentales"
+    },
+    {
+      "id": 689,
+      "name": "Ortodoncia",
+      "moduleId": 234,
+      "slug": null,
+      "averagePrice": 3137,
+      "worthItPercentage": "83%",
+      "numberOfReviews": 16,
+      "description": "La ortodoncia consiste en corregir las alteraciones en el alineamiento y la oclusión de los dientes. Para conseguir esta alineación el ortodoncista puede ver necesaria la colocación de aparatos removibles, aparatos funcionales o también aparatos fijos (brackets). Encuentra aquí las clínicas  dentales que trabajan para mejorar la estética de tu boca.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_689_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_689_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_689_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/ortodoncia"
+    },
+    {
+      "id": 1134,
+      "name": "Presoterapia",
+      "moduleId": 237,
+      "slug": null,
+      "averagePrice": 71,
+      "worthItPercentage": "80%",
+      "numberOfReviews": 2,
+      "description": "La presoterapia es una técnica de masaje que consiste en la aplicación de presión de forma contínua o intermitente en las extremidades para mejorar la circulación. El masaje que se realiza es drenante mecánico -no manual- llevado a cabo por médicos estéticos titulados. Las sesiones suelen durar unos 30 minutos. Aquí podrás ver qué clínicas realizan este tratamiento estético.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_1134_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_1134_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_1134_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/presoterapia"
+    },
+    {
+      "id": 3168,
+      "name": "Reconstrucción mamaria",
+      "moduleId": 236,
+      "slug": null,
+      "averagePrice": 5587,
+      "worthItPercentage": "71%",
+      "numberOfReviews": 44,
+      "description": "La reconstrucción mamaria, en ocasiones llamada post mastectomía, es uno de los procedimientos quirúrgicos que posibilitan al cirujano plástico crear una mama similar en textura, forma y características a la mama original, para que la paciente vuelva a disponer de mamas de aspecto natural tras una mastectomía. Los siguientes cirujanos ofrecen el servicio de reconstrucción mamaria.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_3168_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_3168_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_3168_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/reconstruccion-mamaria"
+    },
+    {
+      "id": 4750,
+      "name": "Microinjertos",
+      "moduleId": 235,
+      "slug": null,
+      "averagePrice": 3078,
+      "worthItPercentage": "100%",
+      "numberOfReviews": 1,
+      "description": "Los microinjertos capilares son una técnica para recuperar el pelo natural frente a casos de alopecia o calvicie. También se conoce como microtrasplante folicular. Consiste en trasplantar cabello de zonas donde éste abunda a otras zonas claras donde se contempla una pérdida irreversible. Si estás buscando clínica especializada en microinjertos en Multiestetica te ofrecemos las mejores.",
+      "images": {
+        "home_card_image_desktop": "https://static.multiestetica.com/site/treatment_home/card_4750_thc1.png",
+        "home_card_image_mobile": "https://static.multiestetica.com/site/treatment_home/card_4750_thc1m.png",
+        "home_related_treatment_carousel": "https://static.multiestetica.com/site/treatment_home/related_carousel_4750_thrtc1.png"
+      },
+      "url": "https://www.multiestetica.com/tratamientos/microinjertos"
+    }
+  ]
+}
