@@ -582,7 +582,7 @@
 </div>
 
 <script>
-  const API_URL = "https://vera-red.vercel.app/api/chat";
+  const API_URL = "http://localhost:8000/api/chat";
 
   const CHIPS = [
     "Quiero mejorar algo pero no sé qué tratamiento",
@@ -655,7 +655,14 @@
 
     const bubble = document.createElement("div");
     bubble.className = "msg-bubble";
-    bubble.textContent = content;
+    bubble.innerHTML = content
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+      .replace(/^- (.+)/gm, "<li>$1</li>")
+      .replace(/(<li>[\s\S]*<\/li>)/g, '<ul style="padding-left:16px;margin-top:8px;display:flex;flex-direction:column;gap:6px;">$1</ul>')
+      .replace(/\n/g, "<br>");
 
     if (cards && cards.length > 0) {
       const cardsEl = document.createElement("div");
@@ -733,6 +740,41 @@
       const data = await res.json();
       hideTyping();
       addMessage("assistant", data.reply, data.context || []);
+      if (data.chips?.length) {
+          const wrap = document.createElement("div");
+          wrap.className = "chips-wrap";
+          data.chips.forEach(label => {
+              if (label.toLowerCase().includes("ver toda")) {
+                  const btn = document.createElement("button");
+                  btn.className = "chip";
+                  btn.textContent = label;
+                  btn.onclick = () => { wrap.remove(); sendMessage(label); };
+                  wrap.appendChild(btn);
+              } else if (label.toLowerCase().includes("otro") || label.toLowerCase().includes("other")) {
+                  const inp = document.createElement("input");
+                  inp.type = "text";
+                  inp.className = "chip";
+                  inp.placeholder = "Escribe aquí...";
+                  inp.style.cursor = "text";
+                  inp.style.background = "#fff";
+                  inp.onkeydown = (e) => {
+                      if (e.key === "Enter" && inp.value.trim()) {
+                          wrap.remove();
+                          sendMessage(inp.value.trim());
+                      }
+                  };
+                  wrap.appendChild(inp);
+              } else {
+                  const btn = document.createElement("button");
+                  btn.className = "chip";
+                  btn.textContent = label;
+                  btn.onclick = () => { wrap.remove(); sendMessage(label); };
+                  wrap.appendChild(btn);
+              }
+          });
+          messagesEl.appendChild(wrap);
+          scrollBottom();
+      }
     } catch (e) {
       hideTyping();
       addMessage("assistant", "Algo salió mal conectando con el servidor. ¿Lo intentamos de nuevo?");
