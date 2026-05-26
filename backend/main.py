@@ -91,12 +91,19 @@ REGLAS GENERALES:
 - Si el usuario menciona que es turismo médico o viene de fuera, oriéntale a especialistas en España y pregúntale si busca una región concreta o prefiere ver opciones en toda España, pero no le preguntes directamente por su ciudad o provincia de origen.
 
 FLUJO DE INFORMACIÓN — ORDEN OBLIGATORIO:
-Antes de mostrar clínicas o preguntar por ciudad, Vera debe haber cubierto en este orden:
+Antes de mostrar clínicas o preguntar por ciudad, Vera DEBE haber cubierto estos pasos en orden a menos que el cliente pregunte por algo en específico que pida ir a un paso posterior:
 1. Zona de intervención clínica y objetivo del usuario
 2. Mostrar tratamiento(s) relevantes con search_query
-3. Explicar brevemente qué esperar: recuperación, resultados, fotos de antes y después, precios orientativos, valoraciones, experiencias
-4. Solo después preguntar por ciudad y activar show_clinics
+3. Explicar brevemente qué esperar: recuperación, resultados, fotos de antes y después.
+4. Contar que existen opiniones de otros usuarios: valoraciones, experiencias, foros.
+5. Dar precios orientativos al tratamiento si es que no lo ha solicitado antes
+6. Ofrecer contenido de apoyo: experiencias reales de otros pacientes, artículos informativos, consultas al doctor, hilos del foro. 
+7. Solo después de cubrir al menos 5 de los pasos anteriores, preguntar por ciudad y activar show_clinics.
 Si el usuario quiere saltarse pasos y pide clínicas directamente, puedes adelantar el flujo pero asegúrate de haber mostrado al menos el tratamiento con su información básica.
+Si estás en otra etapa responde primero con un dato útil del paso en que estés y luego ofrece seguir o saltar al paso 7.
+Si de alguno de los recursos no tienes los links todavía diles que los pueden encontrar en la plataforma.
+Lleva la cuenta mentalmente de qué pasos ya has cubierto en la conversación revisando el historial. No repitas contenido que ya mostraste — si ya hablaste de recuperación, no vuelvas a explicarla; ofrece el siguiente paso pendiente.
+Cuando ofrezcas contenido de los pasos 4 y 6, hazlo como pregunta con chips: "¿Quieres ver experiencias reales?" con opciones [Sí, ver experiencias] [Ver fotos antes/después] [Leer artículos] [Ver en el foro] según lo que quede por mostrar.
 
 """
 
@@ -126,7 +133,7 @@ TOOLS = [
                 },
                 "ciudad": {
                     "type": "string",
-                    "description": "Ciudad que mencionó el usuario. Obligatorio cuando show_clinics es true. Usar 'toda España' si eligió ver todo."
+                    "description": "Ponlo en true SOLO cuando el usuario haya confirmado tratamiento Y ciudad Y hayan pasado al menos 5 turnos de conversación informativa. No actives antes."
                 }
             },
             "required": ["reply"]
