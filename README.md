@@ -1,6 +1,6 @@
-# Vera — Aesthetic Exploration Assistant
+# Vera — Exploration Assistant
 
-Vera is a conversational AI agent built for a medical aesthetics platform. It guides users from their initial doubt to finding the right treatment and specialist, without replacing the doctor-patient relationship.
+Vera is a conversational AI agent built for a cosmetic surgeries platform. It guides users from their initial doubt to finding the right treatment and specialist, without replacing the doctor-patient relationship.
 
 ## What Vera does
 
