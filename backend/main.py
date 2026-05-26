@@ -147,15 +147,26 @@ class Message(BaseModel):
 
 class ChatRequest(BaseModel):
     messages: list[Message]
+    shown_content: dict = {}
 
 @app.post("/api/chat")
 async def chat(request: ChatRequest):
     messages = [{"role": m.role, "content": m.content} for m in request.messages]
+    pending = [k for k, v in request.shown_content.items() if not v]
+    covered = [k for k, v in request.shown_content.items() if v]
+    content_context = f"""
+    ESTADO ACTUAL DE LA CONVERSACIÓN:
+    - Ya cubierto: {', '.join(covered) if covered else 'nada todavía'}
+    - Pendiente por mostrar: {', '.join(pending) if pending else 'todo cubierto — puedes preguntar por ciudad'}
+    No repitas contenido ya cubierto. Ofrece el siguiente pendiente en orden.
+    """
+    
+    system_with_context = SYSTEM_PROMPT + content_context
 
     response = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=1000,
-        system=SYSTEM_PROMPT,
+        system=system_with_context,
         tools=TOOLS,
         tool_choice={"type": "tool", "name": "respond"},
         messages=messages,
