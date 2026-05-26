@@ -550,6 +550,8 @@
       hideTyping();
       addMessage("assistant",data.reply,data.context||[],data.clinics||[],data.articles||[],data.photos||[]);
       if(data.chips?.length) renderChips(data.chips);
+      if(data.context?.length) shownContent.tratamiento = true;
+      if(data.clinics?.length) shownContent.clinicas = true;
     } catch(e) {
       hideTyping();
       addMessage("assistant","Algo salió mal. ¿Lo intentamos de nuevo?");
