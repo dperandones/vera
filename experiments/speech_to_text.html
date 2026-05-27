@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Speech to Text Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background: #f7f7f7;
+      color: #222;
+    }
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+    label, button, p {
+      display: block;
+      margin-bottom: 1rem;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 0.75rem;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+    button {
+      padding: 0.85rem 1.25rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 6px;
+      background: #007bff;
+      color: #fff;
+      cursor: pointer;
+    }
+    button:disabled {
+      background: #999;
+      cursor: not-allowed;
+    }
+    .status {
+      color: #555;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Speech to Text Test</h1>
+    <form id="speech-form">
+      <label for="speech-input">Speak into your microphone and the text will fill here:</label>
+      <input type="text" id="speech-input" name="speech-input" placeholder="Speech will appear here..." autocomplete="off" />
+      <button type="button" id="start-btn">Start Listening</button>
+    </form>
+    <p class="status" id="status">Press the button to begin listening.</p>
+  </div>
+
+  <script>
+    const startBtn = document.getElementById('start-btn');
+    const speechInput = document.getElementById('speech-input');
+    const statusText = document.getElementById('status');
+
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    let recognition = null;
+    let isListening = false;
+
+    function createRecognition() {
+      const rec = new SpeechRecognition();
+      rec.lang = 'es-ES';
+      rec.interimResults = true;
+      rec.maxAlternatives = 1;
+      rec.continuous = false;
+
+      rec.addEventListener('start', () => {
+        statusText.textContent = 'Listening... habla ahora.';
+        startBtn.disabled = true;
+      });
+
+      rec.addEventListener('speechstart', () => {
+        statusText.textContent = 'Speech detected. Keep speaking...';
+      });
+
+      rec.addEventListener('result', (event) => {
+        const transcript = Array.from(event.results)
+          .map(result => result[0].transcript)
+          .join('');
+        speechInput.value = transcript;
+      });
+
+      rec.addEventListener('end', () => {
+        isListening = false;
+        statusText.textContent = 'Stopped after silence. Click Start again to listen.';
+        startBtn.disabled = false;
+      });
+
+      rec.addEventListener('error', (event) => {
+        statusText.textContent = `Error: ${event.error}`;
+        isListening = false;
+        startBtn.disabled = false;
+      });
+
+      return rec;
+    }
+
+    if (!SpeechRecognition) {
+      statusText.textContent = 'Speech Recognition API is not supported in this browser.';
+      startBtn.disabled = true;
+    } else {
+      async function requestMicrophonePermission() {
+        try {
+          await navigator.mediaDevices.getUserMedia({ audio: true });
+          return true;
+        } catch (err) {
+          statusText.textContent = 'Microphone permission denied or unavailable.';
+          return false;
+        }
+      }
+
+      startBtn.addEventListener('click', async () => {
+        if (isListening) {
+          return;
+        }
+
+        statusText.textContent = 'Requesting microphone permission...';
+        startBtn.disabled = true;
+
+        const granted = await requestMicrophonePermission();
+        if (!granted) {
+          startBtn.disabled = false;
+          return;
+        }
+
+        speechInput.value = '';
+        recognition = createRecognition();
+        isListening = true;
+
+        try {
+          recognition.start();
+        } catch (err) {
+          statusText.textContent = 'Unable to start speech recognition. Try again.';
+          isListening = false;
+          startBtn.disabled = false;
+        }
+      });
+    }
+  </script>
+</body>
+</html>
