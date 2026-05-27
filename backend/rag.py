@@ -30,6 +30,44 @@ def search_clinics(ciudad: str = "") -> list:
         results = clinicas_data
     return sorted(results, key=lambda x: x.get("rating") or 0, reverse=True)[:5]
 
+EXP_PATH   = Path(__file__).parent.parent / "data" / "index_experiencias.json"
+QUEST_PATH = Path(__file__).parent.parent / "data" / "index_preguntas.json"
+exp_data   = None
+quest_data = None
+
+def load_content():
+    global exp_data, quest_data
+    if exp_data is not None:
+        return
+    with open(EXP_PATH, encoding="utf-8") as f:
+        exp_data = json.load(f)
+    with open(QUEST_PATH, encoding="utf-8") as f:
+        quest_data = json.load(f)
+
+def search_experiences(query: str, top_k: int = 3) -> list:
+    load_content()
+    words = [w for w in query.lower().split() if len(w) > 3]
+    scored = []
+    for item in exp_data:
+        text = (item.get("title","") + " " + item.get("resume","")).lower()
+        score = sum(1 for w in words if w in text)
+        if score > 0:
+            scored.append((score, item))
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [i for _, i in scored[:top_k]]
+
+def search_questions(query: str, top_k: int = 3) -> list:
+    load_content()
+    words = [w for w in query.lower().split() if len(w) > 3]
+    scored = []
+    for item in quest_data:
+        text = (item.get("title","") + " " + item.get("resume","")).lower()
+        score = sum(1 for w in words if w in text)
+        if score > 0:
+            scored.append((score, item))
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [i for _, i in scored[:top_k]]
+
 def load():
     global model, embeddings_data
     if embeddings_data is not None:
